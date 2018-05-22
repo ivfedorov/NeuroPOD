@@ -10,8 +10,8 @@ http:/127.0.0.1:5000
 
 Протестировать проект можно на сайте:
 http://neuropod.ru:5000/
-Или через телеграм-бот:
+или через телеграм-бот:
 https://t.me/neuropod_bot
 
 Видео о проекте:
-https://www.youtube.com/embed/pIYfRfydp6s
+https://youtu.be/pIYfRfydp6s
